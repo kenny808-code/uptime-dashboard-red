@@ -1,0 +1,62 @@
+{
+  "records": [
+    {
+      "unitCode": "UNIT001",
+      "date": "2025-01-07",
+      "shift": "A",
+      "machineCode": "MC001",
+      "totalDowntime": 15
+    },
+    {
+      "unitCode": "UNIT002",
+      "date": "2025-01-07",
+      "shift": "B",
+      "machineCode": "MC002",
+      "totalDowntime": 25
+    },
+    {
+      "unitCode": "UNIT003",
+      "date": "2025-01-07",
+      "shift": "C",
+      "machineCode": "MC001",
+      "totalDowntime": 35
+    },
+    {
+      "unitCode": "UNIT004",
+      "date": "2025-01-07",
+      "shift": "A",
+      "machineCode": "MC003",
+      "totalDowntime": 12
+    },
+    {
+      "unitCode": "UNIT005",
+      "date": "2025-01-06",
+      "shift": "D",
+      "machineCode": "MC004",
+      "totalDowntime": 45
+    },
+    {
+      "unitCode": "UNIT006",
+      "date": "2025-01-06",
+      "shift": "E",
+      "machineCode": "MC002",
+      "totalDowntime": 18
+    },
+    {
+      "unitCode": "UNIT007",
+      "date": "2025-01-05",
+      "shift": "A",
+      "machineCode": "MC005",
+      "totalDowntime": 22
+    },
+    {
+      "unitCode": "UNIT008",
+      "date": "2025-01-05",
+      "shift": "B",
+      "machineCode": "MC001",
+      "totalDowntime": 38
+    }
+  ],
+  "machines": ["MC001", "MC002", "MC003", "MC004", "MC005"],
+  "shifts": ["A", "B", "C", "D", "E"]
+}
